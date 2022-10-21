@@ -16,11 +16,11 @@
 
 ## Introduction
 
-A fully-responsive and modern music player application with modern homepage and exceptional design XXX built using Sanity.io and React framework Next.js, with the ability to choose the, genre get the top song, see the top charts and top artists, a fully fledged Spotify-like music player with the ability to play, pause, skip, shuffle, repeat, and seek through the song, and a fully functional search where you can explore the most popular songs, artists and albums in your country. You are also able to see related songs as well as the lyrics of the song you are listening to.
+A fully-responsive and modern music player application with modern homepage and exceptional design, built using Sanity.io and React framework Next.js, with the ability to choose the genre, get the top song, see the top charts and top artists with a fully fledged Spotify-like music player with the ability to play, pause, skip, shuffle, repeat, and seek through the song, and a fully functional search where you can explore the most popular songs, artists and albums in your country. You are also able to see related songs as well as the lyrics of the song you are listening to.
 
 ## Link to website demo
 
-[Lyrify](https:/<enter_url>/)
+[Lyrify](https://lyrify-pc.vercel.app/)
 
 ## Tech Stack
 
